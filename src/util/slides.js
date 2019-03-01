@@ -9,7 +9,7 @@ const Slides = [
         alt: "Quiz Map Screenshot",
         details: [
             ["As a self-proclaimed geography nerd, every now and then I try to name all the World’s countries."],
-            ["However, out of all the quizzes out there none of them came with a dynamic map that allowed users to receive information about their previous guesses."],
+            ["However out of all the quizzes out there, none of them come with a dynamic map that allowed users to receive information about their previous guesses."],
             ["Using Google’s Map API, I created full-stack application that asks users to enter the names of the world (or a continent’s) countries before time runs out. As they answer submit answers the Map API and GeoJSON data (on a MongoDB database) provides user’s with live feedback to their progress."],
             ["Check back for ongoing improvements including Redux implementation, enhanced map features to improve feedback, and user profile creation."]
         ],
