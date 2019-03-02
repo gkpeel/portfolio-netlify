@@ -39,7 +39,7 @@ class Projects extends Component {
                         xl={{ span: 6, offset: 3 }}
                     >
                         <ContentBox>
-                            <p>Below are some projects (both full-stack and front-end) that I’ve developed. Additionally, this portfolio is a full stack application that leverages the power of React with popular packages, like react-bootstrap, react-responsive-carousel, react-scroll, react-transition-group, and styled-components.</p>
+                            <p>Below are some projects (both full-stack and front-end) that I’ve developed. Additionally, this portfolio leverages the power of React with along with popular packages, like react-bootstrap, react-responsive-carousel, react-scroll, react-transition-group, and styled-components.</p>
                             <CtaButton to="/contact" icon="user-circle">Contact Me</CtaButton>
                         </ContentBox>
                     </Col>
